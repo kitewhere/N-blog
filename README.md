@@ -1,3 +1,5 @@
+使用es2015的语法和pug模版
+
 ## N-blog
 
 使用 Express + MongoDB 搭建多人博客
